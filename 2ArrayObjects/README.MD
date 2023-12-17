@@ -152,7 +152,7 @@ console.log(greetActors2(vijay));
 
 This example demonstrates the use of functions that accept objects as parameters. The greetActors function checks if the actor's name is present and provides a customized greeting. The second function greetActors2uses optional chaining (?.) to handle potential undefined values gracefully. These examples showcase how TypeScript allows for precise typing in function parameters, enhancing code reliability.
 
-Bonus: Enums in TypeScript:
+### Bonus: Enums in TypeScript:
 
 Enums in TypeScript provide a way to define a set of named constant values. They make code more readable and maintainable by giving meaningful names to numeric values.
 
